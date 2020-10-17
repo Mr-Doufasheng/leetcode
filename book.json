@@ -2,6 +2,7 @@
   "structure": {
     "readme": "introduction.md"
   },
-  "language": "zh-hans"
+  "language": "zh-hans",
+  "plugins": ["katex", "ace"]
 
 }

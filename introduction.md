@@ -11,17 +11,32 @@
 - 2019-10-08: [纪念 LeetCode 项目 Star 突破 2W](./thanksGiving2.md)，并且 Github 搜索“LeetCode”，排名第一。
 
 - 2020-04-12: [项目突破三万 Star](./thanksGiving3.md)。
+
 - 2020-04-14: 官网`力扣加加`上线啦 💐💐💐💐💐，有专题讲解，每日一题，下载区和视频题解，后续会增加更多内容，还不赶紧收藏起来？地址：http://leetcode-solution.cn/
 
 ![](https://tva1.sinaimg.cn/large/007S8ZIlly1ghluemaoj3j30z90dtmy5.jpg)
 
 ## 前言
 
-这是我将我的所有公开的算法资料整理的一个电子书，主要特点有：
+这是我将我的所有公开的算法资料整理的一个电子书，全部题目信息中文化，以前会有一些英文描述，感谢 @CYL 的中文整理。
 
-- 全部题目信息中文化，以前会有一些英文描述。
+由于是电子书，因此阅读体验可能会更好， 但是相应地就不能获得及时的更新，因此你可以收藏一下我的同步电子书的网站 [西法带你学算法 - 在线版](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/)。后期可能将每日一题， 91 天学算法其他章节的讲义等也整理进来。
 
-后期可能将每日一题也整理进来。
+目前我导出了四种格式，可惜的是这几种格式都有自己的不足：
+
+- 在线版。 实时更新，想要及时获取最新信息的可以用在线版。
+- html。 方便大家在线观看，由于是 html ，实际上大家也可以保存起来**离线**观看。
+- pdf。可使用 pdf 阅读器和浏览器（比如谷歌）直接观看，阅读体验一般。
+- mobi。 数学公式没有转化成功，主题转化地似乎有点问题。
+- epub。 数学公式和主题都比较不错， 但是代码没有高亮。
+
+大家选择合适自己的格式下载即可。
+
+- [在线版](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/)
+- [html](./assets/book.zip)
+- [pdf](./book.pdf)
+- [mobi](./book.mobi)
+- [epub](./book.epub)
 
 ## 介绍
 
